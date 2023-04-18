@@ -1,6 +1,6 @@
 # IDS351-ProyectoFinal-Grupo3
 
- # GRUPO 3
+ ## GRUPO 3
 
 * José González 1100263
 * Nathalie Elías 1098163
