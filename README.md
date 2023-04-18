@@ -17,5 +17,5 @@
 <img width="1068" alt="image" src="https://user-images.githubusercontent.com/77129444/232900838-5ab24d99-e419-41d8-907a-ba4a3f14f2b5.png">
 
 <div>
-  <iframe src="Reporte-resultados-pruebas.html" width="500" height="500"></iframe>
+  <iframe src="Reporte-resultados-pruebas" width="500" height="500"></iframe>
 </div>
